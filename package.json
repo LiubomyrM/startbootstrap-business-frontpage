@@ -1,0 +1,22 @@
+{
+  "name": "startbootstrap-business-frontpage",
+  "version": "1.0.0",
+  "description": "[Business Frontpage](http://startbootstrap.com/template-overviews/business-frontpage/) is a basic business website template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IronSummitMedia/startbootstrap-business-frontpage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IronSummitMedia/startbootstrap-business-frontpage/issues"
+  },
+  "homepage": "https://github.com/IronSummitMedia/startbootstrap-business-frontpage#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
